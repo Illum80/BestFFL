@@ -1,0 +1,39 @@
+/* BestFFLSoftware scoped CSS (GoDaddy Managed WP safe) */
+.bestffl {
+  --green:#B2DA0C; --green2:#60A302; --purple:#9A56A9;
+  --gold:#E3CB64; --ink:#0B0B0E;
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial;
+}
+.bestffl a{color:inherit;text-decoration-thickness:2px;text-underline-offset:3px}
+.bestffl a:hover{text-decoration-color:var(--green2)}
+.bestffl .hero{display:grid;grid-template-columns:1.2fr .8fr;gap:16px;align-items:start;margin:20px 0}
+@media (max-width:900px){.bestffl .hero{grid-template-columns:1fr}}
+.bestffl .heroCard{border-radius:18px;border:1px solid rgba(17,24,39,.10);padding:18px;background:
+radial-gradient(900px 360px at 10% 0%, rgba(178,218,12,.25), transparent 55%),
+radial-gradient(900px 360px at 90% 20%, rgba(154,86,169,.22), transparent 55%),
+radial-gradient(900px 360px at 60% 120%, rgba(227,203,100,.20), transparent 55%),
+var(--ink);color:#fff}
+.bestffl h1{margin:0 0 10px;font-size:clamp(1.6rem,2.6vw,2.2rem)}
+.bestffl h2{margin:0 0 10px}
+.bestffl h3{margin:0 0 8px}
+.bestffl .sub{margin:0 0 12px;color:rgba(255,255,255,.86);font-weight:650;line-height:1.45}
+.bestffl .chips{display:flex;flex-wrap:wrap;gap:8px}
+.bestffl .chip{display:inline-flex;gap:6px;align-items:center;padding:6px 10px;border-radius:999px;
+border:1px solid rgba(255,255,255,.18);background:rgba(255,255,255,.08);font-weight:800;font-size:.88rem}
+.bestffl .chip b{color:var(--gold)}
+.bestffl .box{border-radius:18px;border:1px solid rgba(17,24,39,.10);background:#fff;padding:16px;
+box-shadow:0 12px 40px rgba(17,24,39,.08)}
+.bestffl .side .box{margin-bottom:16px}
+.bestffl .mut{color:#6B7280;font-size:.96rem;line-height:1.5}
+.bestffl .tbl{width:100%;border-collapse:collapse;display:block;overflow-x:auto}
+.bestffl .tbl th,.bestffl .tbl td{text-align:left;padding:10px;border-bottom:1px solid rgba(17,24,39,.10);vertical-align:top}
+.bestffl .tbl th{font-size:.85rem;text-transform:uppercase;letter-spacing:.14px;color:#6B7280}
+.bestffl .r{font-weight:900;width:44px}
+.bestffl .s{font-weight:900;white-space:nowrap}
+.bestffl .bestffl-tag{display:inline-flex;margin:6px 6px 0 0;padding:3px 8px;border-radius:999px;
+border:1px solid rgba(17,24,39,.12);background:rgba(17,24,39,.03);font-weight:850;font-size:.82rem}
+.bestffl .bestffl-tag.win{border-color:rgba(96,163,2,.45);box-shadow:0 0 0 3px rgba(178,218,12,.18)}
+.bestffl .banner{margin-top:12px;padding:10px 12px;border-radius:14px;border:1px solid rgba(17,24,39,.10);
+background:linear-gradient(180deg, rgba(178,218,12,.15), rgba(227,203,100,.11));color:#111827;font-weight:900}
+.bestffl .cols{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+@media (max-width:900px){.bestffl .cols{grid-template-columns:1fr}}

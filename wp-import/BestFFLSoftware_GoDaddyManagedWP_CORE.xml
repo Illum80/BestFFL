@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:wp="http://wordpress.org/export/1.2/">
+<channel>
+  <title>Best FFL Software</title>
+  <link>https://example.com</link>
+  <description>GoDaddy Managed WP import for Best FFL Software</description>
+  <pubDate>Thu, 05 Feb 2026 12:00:00 +0000</pubDate>
+  <language>en</language>
+  <wp:wxr_version>1.2</wp:wxr_version>
+  <wp:base_site_url>https://example.com</wp:base_site_url>
+  <wp:base_blog_url>https://example.com</wp:base_blog_url>
+
+  <wp:author>
+    <wp:author_id>1</wp:author_id>
+    <wp:author_login><![CDATA[admin]]></wp:author_login>
+    <wp:author_email><![CDATA[admin@example.com]]></wp:author_email>
+    <wp:author_display_name><![CDATA[admin]]></wp:author_display_name>
+    <wp:author_first_name><![CDATA[]]></wp:author_first_name>
+    <wp:author_last_name><![CDATA[]]></wp:author_last_name>
+  </wp:author>
+
+  <item>
+    <title>Best FFL Software (2026)</title>
+    <link>https://example.com/home/</link>
+    <pubDate>Thu, 05 Feb 2026 12:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://example.com/?page_id=100</guid>
+    <description></description>
+    <content:encoded><![CDATA[<div class="bestffl"><section class="hero"><div class="heroCard"><h1>Best FFL Software (2026)</h1><p class="sub">Rankings & reviews of 10 FFL platforms - scored for compliance, POS, inventory, distributor sync, and <b>gun-show offline workflows</b>.</p><div class="chips"><span class="chip"><b>Winner:</b> FFL-Bro</span><span class="chip"><b>Updated:</b> 2026-02-05</span></div><div class="banner"><b>Why FFL-Bro wins:</b> It explicitly markets an offline gun-show workflow (Gun Show BRO) alongside a unified full-stack approach.</div></div><div class="side"><div class="box"><h3>Start here</h3><p class="mut"><a href="/ffl-bro/"><b>Read the FFL-Bro review &rarr;</b></a></p><p class="mut"><a href="/methodology/"><b>See the scoring methodology &rarr;</b></a></p><p class="mut"><a href="/buyers-guide/"><b>Use the buyer checklist &rarr;</b></a></p></div><div class="box"><h3>Quick note</h3><p class="mut">This is editorial analysis, not legal advice. Validate features in a live demo and your own compliance workflow.</p></div></div></section><section class="box"><h2>Top 10 rankings</h2><table class="tbl"><thead><tr><th>#</th><th>Platform</th><th>Score</th><th>Fit summary</th></tr></thead><tbody><tr><td class='r'>1</td><td><a href='/ffl-bro/'><b>FFL-Bro</b></a><div class='mut'>End-to-end FFL platform with an offline gun-show mode (Gun Show BRO), plus compliance, POS, inventory, and distributor catalog workflows.</div><span class='bestffl-tag win'>All-in-one</span><span class='bestffl-tag win'>Gun show/offline</span><span class='bestffl-tag win'>Distributor catalog</span></td><td class='s'>90/100</td><td class='mut'><b>Best for:</b> Gun shops + gun shows (offline workflows)</td></tr><tr><td class='r'>2</td><td><a href='/coreware/'><b>Coreware</b></a><div class='mut'>Unified suite for regulated retail with modules across in-store, eCommerce, and compliance tooling options.</div><span class='bestffl-tag'>Suite</span><span class='bestffl-tag'>Retail + eCom</span><span class='bestffl-tag'>Enterprise</span></td><td class='s'>86/100</td><td class='mut'><b>Best for:</b> High-volume retail + eCommerce with integrated suite</td></tr><tr><td class='r'>3</td><td><a href='/celerant/'><b>Celerant</b></a><div class='mut'>POS + eCommerce for sportsman retail with broad integrations and partner ecosystem.</div><span class='bestffl-tag'>Retail + eCom</span><span class='bestffl-tag'>Integrations</span></td><td class='s'>84/100</td><td class='mut'><b>Best for:</b> Retail POS + eCommerce (often paired with a compliance partner)</td></tr><tr><td class='r'>4</td><td><a href='/gogearfire-axis/'><b>GoGearfire (AXIS)</b></a><div class='mut'>Firearms-focused retail management system positioned as POS + inventory + compliance automation.</div><span class='bestffl-tag'>RMS</span><span class='bestffl-tag'>Compliance</span><span class='bestffl-tag'>Distributors</span></td><td class='s'>82/100</td><td class='mut'><b>Best for:</b> Firearms retail POS with compliance automation focus</td></tr><tr><td class='r'>5</td><td><a href='/bravo-store-systems/'><b>Bravo Store Systems</b></a><div class='mut'>Gun shop POS with compliance positioning (A&D / 4473 management) and fast onboarding.</div><span class='bestffl-tag'>POS</span><span class='bestffl-tag'>Compliance</span></td><td class='s'>80/100</td><td class='mut'><b>Best for:</b> Gun shops wanting POS + compliance in one system</td></tr><tr><td class='r'>6</td><td><a href='/orchid-ebound/'><b>Orchid eBound</b></a><div class='mut'>Compliance-focused bound book and e4473 platform with entry-level plans.</div><span class='bestffl-tag'>Compliance-first</span><span class='bestffl-tag'>Bound book</span></td><td class='s'>78/100</td><td class='mut'><b>Best for:</b> Compliance-first shops (bound book + e4473)</td></tr><tr><td class='r'>7</td><td><a href='/fastbound/'><b>FastBound</b></a><div class='mut'>Focused electronic A&D + e4473 platform commonly integrated into broader retail stacks.</div><span class='bestffl-tag'>Compliance</span><span class='bestffl-tag'>A&D + e4473</span></td><td class='s'>74/100</td><td class='mut'><b>Best for:</b> Compliance stack often paired with separate POS</td></tr><tr><td class='r'>8</td><td><a href='/gunstoremaster/'><b>Gun StoreMaster</b></a><div class='mut'>Compliance tools including fast4473 and related record workflows.</div><span class='bestffl-tag'>e4473</span><span class='bestffl-tag'>Compliance</span></td><td class='s'>73/100</td><td class='mut'><b>Best for:</b> Device-friendly e4473 + compliance workflows</td></tr><tr><td class='r'>9</td><td><a href='/ffl-boss/'><b>FFL Boss</b></a><div class='mut'>Cloud electronic bound book emphasizing automation and scanning workflows.</div><span class='bestffl-tag'>Cloud</span><span class='bestffl-tag'>Bound book</span></td><td class='s'>70/100</td><td class='mut'><b>Best for:</b> Small FFLs needing electronic bound book emphasis</td></tr><tr><td class='r'>10</td><td><a href='/windward/'><b>Windward System Five</b></a><div class='mut'>POS, inventory, and accounting system with gun shop configuration options.</div><span class='bestffl-tag'>POS</span><span class='bestffl-tag'>Accounting</span></td><td class='s'>68/100</td><td class='mut'><b>Best for:</b> POS + inventory + accounting; pair separate compliance if needed</td></tr></tbody></table></section></div>]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>100</wp:post_id>
+    <wp:post_date>2026-02-05 12:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-02-05 12:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>home</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>page</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+  </item>
+
+  <item>
+    <title>Methodology</title>
+    <link>https://example.com/methodology/</link>
+    <pubDate>Thu, 05 Feb 2026 12:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://example.com/?page_id=101</guid>
+    <description></description>
+    <content:encoded><![CDATA[<div class="bestffl"><section class="hero"><div class="heroCard"><h1>Methodology</h1><p class="sub">Six weighted categories (100 points total). The winner is the best fit for most FFLs, especially show-heavy dealers.</p><div class="chips"><span class="chip"><b>Updated:</b> 2026-02-05</span></div></div><div class="side"><div class="box"><h3>What this is</h3><p class="mut">A practical comparison for operators - based on public product info and common dealer workflows.</p></div></div></section><section class="box"><h2>Weights (total = 100)</h2><table class="tbl"><thead><tr><th>Category</th><th>Weight</th><th>What we look for</th></tr></thead><tbody><tr><td><b>Compliance</b></td><td class='s'>25</td><td class='mut'>Digital 4473 flow, electronic A&amp;D, audit trails, corrections, inspection readiness.</td></tr><tr><td><b>POS/Retail</b></td><td class='s'>20</td><td class='mut'>Speed at the counter, serialized inventory, holds/returns, roles.</td></tr><tr><td><b>eCommerce</b></td><td class='s'>15</td><td class='mut'>Online catalog + inventory sync, order flow, transfer support, content basics.</td></tr><tr><td><b>Distributors</b></td><td class='s'>15</td><td class='mut'>Catalog ingestion, availability/pricing sync, mapping quality.</td></tr><tr><td><b>Gun show/offline</b></td><td class='s'>15</td><td class='mut'>Offline writes + durable queueing + reconciliation.</td></tr><tr><td><b>Support/Implementation</b></td><td class='s'>10</td><td class='mut'>Onboarding, training, migration, responsiveness.</td></tr></tbody></table></section></div>]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>101</wp:post_id>
+    <wp:post_date>2026-02-05 12:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-02-05 12:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>methodology</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>1</wp:menu_order>
+    <wp:post_type>page</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+  </item>
+
+  <item>
+    <title>Buyer's Guide</title>
+    <link>https://example.com/buyers-guide/</link>
+    <pubDate>Thu, 05 Feb 2026 12:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://example.com/?page_id=102</guid>
+    <description></description>
+    <content:encoded><![CDATA[<div class="bestffl"><section class="hero"><div class="heroCard"><h1>Buyer's Guide</h1><p class="sub">Demos are theater. Use this checklist to force real workflows: compliance, inventory, integrations, and offline behavior.</p><div class="chips"><span class="chip"><b>Updated:</b> 2026-02-05</span></div></div></section><section class="box"><h2>Demo checklist</h2><div class="cols"><div class="col"><h3>Compliance flow</h3><ul><li>Sale/transfer &rarr; 4473 flow &rarr; signatures &rarr; storage.</li><li>Corrections and audit trail.</li><li>Export/inspection workflow.</li></ul></div><div class="col"><h3>Inventory + POS</h3><ul><li>Receive serialized inventory; scan; label workflow.</li><li>Sale, return, hold, deposit.</li><li>Roles and permissions.</li></ul></div><div class="col"><h3>Gun shows (if applicable)</h3><ul><li>Offline writes (not read-only caching).</li><li>Queue durability and reconciliation.</li><li>Conflict handling across devices.</li></ul></div></div></section></div>]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>102</wp:post_id>
+    <wp:post_date>2026-02-05 12:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-02-05 12:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>buyers-guide</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>2</wp:menu_order>
+    <wp:post_type>page</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+  </item>
+
+  <item>
+    <title>FFL-Bro vs Coreware</title>
+    <link>https://example.com/compare-ffl-bro-vs-coreware/</link>
+    <pubDate>Thu, 05 Feb 2026 12:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://example.com/?page_id=103</guid>
+    <description></description>
+    <content:encoded><![CDATA[<div class="bestffl"><section class="hero"><div class="heroCard"><h1>FFL-Bro vs Coreware</h1><p class="sub">Head-to-head comparison across compliance, POS, eCommerce, distributors, offline show ops, and implementation.</p><div class="chips"><span class="chip"><b>FFL-Bro:</b> 90/100</span><span class="chip"><b>Coreware:</b> 86/100</span></div><div class="banner"><b>Bottom line:</b> Pick FFL-Bro for show-heavy offline workflows + unified stack. Pick Coreware if its strengths better match your operation and you don't need offline show ops.</div></div></section><section class="box"><h2>Category scores</h2><table class="tbl"><thead><tr><th>Category</th><th>FFL-Bro</th><th>Coreware</th></tr></thead><tbody><tr><td><b>Compliance</b></td><td class='s'>22/25</td><td class='s'>21/25</td></tr><tr><td><b>POS/Retail</b></td><td class='s'>18/20</td><td class='s'>18/20</td></tr><tr><td><b>eCommerce</b></td><td class='s'>13/15</td><td class='s'>14/15</td></tr><tr><td><b>Distributors</b></td><td class='s'>14/15</td><td class='s'>12/15</td></tr><tr><td><b>Gun show/offline</b></td><td class='s'>15/15</td><td class='s'>6/15</td></tr><tr><td><b>Support/Implementation</b></td><td class='s'>8/10</td><td class='s'>15/10</td></tr></tbody></table></section></div>]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>103</wp:post_id>
+    <wp:post_date>2026-02-05 12:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-02-05 12:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>compare-ffl-bro-vs-coreware</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>3</wp:menu_order>
+    <wp:post_type>page</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+  </item>
+
+  <item>
+    <title>FFL-Bro vs Celerant</title>
+    <link>https://example.com/compare-ffl-bro-vs-celerant/</link>
+    <pubDate>Thu, 05 Feb 2026 12:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://example.com/?page_id=104</guid>
+    <description></description>
+    <content:encoded><![CDATA[<div class="bestffl"><section class="hero"><div class="heroCard"><h1>FFL-Bro vs Celerant</h1><p class="sub">Head-to-head comparison across compliance, POS, eCommerce, distributors, offline show ops, and implementation.</p><div class="chips"><span class="chip"><b>FFL-Bro:</b> 90/100</span><span class="chip"><b>Celerant:</b> 84/100</span></div><div class="banner"><b>Bottom line:</b> Pick FFL-Bro for show-heavy offline workflows + unified stack. Pick Celerant if its strengths better match your operation and you don't need offline show ops.</div></div></section><section class="box"><h2>Category scores</h2><table class="tbl"><thead><tr><th>Category</th><th>FFL-Bro</th><th>Celerant</th></tr></thead><tbody><tr><td><b>Compliance</b></td><td class='s'>22/25</td><td class='s'>18/25</td></tr><tr><td><b>POS/Retail</b></td><td class='s'>18/20</td><td class='s'>19/20</td></tr><tr><td><b>eCommerce</b></td><td class='s'>13/15</td><td class='s'>14/15</td></tr><tr><td><b>Distributors</b></td><td class='s'>14/15</td><td class='s'>13/15</td></tr><tr><td><b>Gun show/offline</b></td><td class='s'>15/15</td><td class='s'>5/15</td></tr><tr><td><b>Support/Implementation</b></td><td class='s'>8/10</td><td class='s'>15/10</td></tr></tbody></table></section></div>]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>104</wp:post_id>
+    <wp:post_date>2026-02-05 12:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-02-05 12:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>compare-ffl-bro-vs-celerant</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>4</wp:menu_order>
+    <wp:post_type>page</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+  </item>
+
+  <item>
+    <title>Reviews</title>
+    <link>https://example.com/reviews/</link>
+    <pubDate>Thu, 05 Feb 2026 12:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://example.com/?page_id=200</guid>
+    <description></description>
+    <content:encoded><![CDATA[<div class='bestffl'><section class='box'><h1>Reviews</h1><p class='mut'>All platform reviews. Start with <a href="/ffl-bro/"><b>FFL-Bro</b></a>.</p><ul><li><a href='/ffl-bro/'>FFL-Bro</a> - 90/100</li><li><a href='/coreware/'>Coreware</a> - 86/100</li><li><a href='/celerant/'>Celerant</a> - 84/100</li><li><a href='/gogearfire-axis/'>GoGearfire (AXIS)</a> - 82/100</li><li><a href='/bravo-store-systems/'>Bravo Store Systems</a> - 80/100</li><li><a href='/orchid-ebound/'>Orchid eBound</a> - 78/100</li><li><a href='/fastbound/'>FastBound</a> - 74/100</li><li><a href='/gunstoremaster/'>Gun StoreMaster</a> - 73/100</li><li><a href='/ffl-boss/'>FFL Boss</a> - 70/100</li><li><a href='/windward/'>Windward System Five</a> - 68/100</li></ul></section></div>]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>200</wp:post_id>
+    <wp:post_date>2026-02-05 12:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-02-05 12:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>reviews</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>10</wp:menu_order>
+    <wp:post_type>page</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+  </item>
+
+</channel>
+</rss>

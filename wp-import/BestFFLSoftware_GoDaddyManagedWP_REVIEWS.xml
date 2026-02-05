@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:wp="http://wordpress.org/export/1.2/">
+<channel>
+  <title>Best FFL Software</title>
+  <link>https://example.com</link>
+  <description>GoDaddy Managed WP import for Best FFL Software</description>
+  <pubDate>Thu, 05 Feb 2026 12:00:00 +0000</pubDate>
+  <language>en</language>
+  <wp:wxr_version>1.2</wp:wxr_version>
+  <wp:base_site_url>https://example.com</wp:base_site_url>
+  <wp:base_blog_url>https://example.com</wp:base_blog_url>
+
+  <wp:author>
+    <wp:author_id>1</wp:author_id>
+    <wp:author_login><![CDATA[admin]]></wp:author_login>
+    <wp:author_email><![CDATA[admin@example.com]]></wp:author_email>
+    <wp:author_display_name><![CDATA[admin]]></wp:author_display_name>
+    <wp:author_first_name><![CDATA[]]></wp:author_first_name>
+    <wp:author_last_name><![CDATA[]]></wp:author_last_name>
+  </wp:author>
+
+  <item>
+    <title>FFL-Bro Review</title>
+    <link>https://example.com/ffl-bro/</link>
+    <pubDate>Thu, 05 Feb 2026 12:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://example.com/?page_id=300</guid>
+    <description></description>
+    <content:encoded><![CDATA[<div class="bestffl"><section class="hero"><div class="heroCard"><h1>FFL-Bro Review</h1><p class="sub">End-to-end FFL platform with an offline gun-show mode (Gun Show BRO), plus compliance, POS, inventory, and distributor catalog workflows.</p><div class="chips"><span class="chip"><b>Score:</b> 90/100</span><a class="chip" href="https://ffl-bro.com/" target="_blank" rel="noopener">Vendor site &rarr;</a><span class="chip"><b>Updated:</b> 2026-02-05</span></div><div class='banner'><b>Winner:</b> Best overall (gun shops + gun shows)</div></div><div class="side"><div class="box"><h3>At a glance</h3><div class="tags"><span class='bestffl-tag win'>All-in-one</span><span class='bestffl-tag win'>Gun show/offline</span><span class='bestffl-tag win'>Distributor catalog</span><span class='bestffl-tag win'>POS + Compliance</span></div><p class="mut"><b>Best for:</b> Gun shops + gun shows (offline workflows)</p></div></div></section><section class="box"><h2>Score breakdown</h2><table class="tbl"><thead><tr><th>Category</th><th>Score</th></tr></thead><tbody><tr><td><b>Compliance</b></td><td class='s'>22/25</td></tr><tr><td><b>POS/Retail</b></td><td class='s'>18/20</td></tr><tr><td><b>eCommerce</b></td><td class='s'>13/15</td></tr><tr><td><b>Distributors</b></td><td class='s'>14/15</td></tr><tr><td><b>Gun show/offline</b></td><td class='s'>15/15</td></tr><tr><td><b>Support/Implementation</b></td><td class='s'>8/10</td></tr></tbody></table></section><section class="box"><h2>Gun Show BRO (offline): what to verify</h2><ul><li><b>Write offline:</b> create sales/holds and capture required info without internet.</li><li><b>Queue durability:</b> queued items survive power loss and bad connectivity.</li><li><b>Reconciliation:</b> clear conflict handling across devices.</li><li><b>Audit trail:</b> offline actions remain attributable after sync.</li></ul></section><section class="box"><h2>Public sources used</h2><ul><li><a href='https://ffl-bro.com/gun-show-software-1-gun-show-management-for-ffl-dealers-gun-show-bro/' target='_blank' rel='noopener'>Gun Show BRO (offline)</a></li><li><a href='https://ffl-bro.com/compliance/' target='_blank' rel='noopener'>Compliance</a></li><li><a href='https://ffl-bro.com/distributors/' target='_blank' rel='noopener'>Distributors</a></li><li><a href='https://ffl-bro.com/pos-bro/' target='_blank' rel='noopener'>POS</a></li></ul></section></div>]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>300</wp:post_id>
+    <wp:post_date>2026-02-05 12:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-02-05 12:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>ffl-bro</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>page</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+  </item>
+
+  <item>
+    <title>Coreware Review</title>
+    <link>https://example.com/coreware/</link>
+    <pubDate>Thu, 05 Feb 2026 12:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://example.com/?page_id=301</guid>
+    <description></description>
+    <content:encoded><![CDATA[<div class="bestffl"><section class="hero"><div class="heroCard"><h1>Coreware Review</h1><p class="sub">Unified suite for regulated retail with modules across in-store, eCommerce, and compliance tooling options.</p><div class="chips"><span class="chip"><b>Score:</b> 86/100</span><a class="chip" href="https://coreffl.com/" target="_blank" rel="noopener">Vendor site &rarr;</a><span class="chip"><b>Updated:</b> 2026-02-05</span></div></div><div class="side"><div class="box"><h3>At a glance</h3><div class="tags"><span class='bestffl-tag'>Suite</span><span class='bestffl-tag'>Retail + eCom</span><span class='bestffl-tag'>Enterprise</span></div><p class="mut"><b>Best for:</b> High-volume retail + eCommerce with integrated suite</p></div></div></section><section class="box"><h2>Score breakdown</h2><table class="tbl"><thead><tr><th>Category</th><th>Score</th></tr></thead><tbody><tr><td><b>Compliance</b></td><td class='s'>21/25</td></tr><tr><td><b>POS/Retail</b></td><td class='s'>18/20</td></tr><tr><td><b>eCommerce</b></td><td class='s'>14/15</td></tr><tr><td><b>Distributors</b></td><td class='s'>12/15</td></tr><tr><td><b>Gun show/offline</b></td><td class='s'>6/15</td></tr><tr><td><b>Support/Implementation</b></td><td class='s'>15/10</td></tr></tbody></table></section><section class="box"><h2>Public sources used</h2><ul><li><a href='https://coreffl.com/' target='_blank' rel='noopener'>Coreware FFL</a></li><li><a href='https://www.coreilla.com/coreware-firearm-quick-links' target='_blank' rel='noopener'>Firearm quick links</a></li></ul></section></div>]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>301</wp:post_id>
+    <wp:post_date>2026-02-05 12:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-02-05 12:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>coreware</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>1</wp:menu_order>
+    <wp:post_type>page</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+  </item>
+
+  <item>
+    <title>Celerant Review</title>
+    <link>https://example.com/celerant/</link>
+    <pubDate>Thu, 05 Feb 2026 12:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://example.com/?page_id=302</guid>
+    <description></description>
+    <content:encoded><![CDATA[<div class="bestffl"><section class="hero"><div class="heroCard"><h1>Celerant Review</h1><p class="sub">POS + eCommerce for sportsman retail with broad integrations and partner ecosystem.</p><div class="chips"><span class="chip"><b>Score:</b> 84/100</span><a class="chip" href="https://www.celerant.com/industries/sportsman/" target="_blank" rel="noopener">Vendor site &rarr;</a><span class="chip"><b>Updated:</b> 2026-02-05</span></div></div><div class="side"><div class="box"><h3>At a glance</h3><div class="tags"><span class='bestffl-tag'>Retail + eCom</span><span class='bestffl-tag'>Integrations</span></div><p class="mut"><b>Best for:</b> Retail POS + eCommerce (often paired with a compliance partner)</p></div></div></section><section class="box"><h2>Score breakdown</h2><table class="tbl"><thead><tr><th>Category</th><th>Score</th></tr></thead><tbody><tr><td><b>Compliance</b></td><td class='s'>18/25</td></tr><tr><td><b>POS/Retail</b></td><td class='s'>19/20</td></tr><tr><td><b>eCommerce</b></td><td class='s'>14/15</td></tr><tr><td><b>Distributors</b></td><td class='s'>13/15</td></tr><tr><td><b>Gun show/offline</b></td><td class='s'>5/15</td></tr><tr><td><b>Support/Implementation</b></td><td class='s'>15/10</td></tr></tbody></table></section><section class="box"><h2>Public sources used</h2><ul><li><a href='https://www.celerant.com/industries/sportsman/' target='_blank' rel='noopener'>Celerant Sportsman</a></li><li><a href='https://www.fastbound.com/partners/celerant/' target='_blank' rel='noopener'>FastBound partner page</a></li></ul></section></div>]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>302</wp:post_id>
+    <wp:post_date>2026-02-05 12:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-02-05 12:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>celerant</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>2</wp:menu_order>
+    <wp:post_type>page</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+  </item>
+
+  <item>
+    <title>GoGearfire (AXIS) Review</title>
+    <link>https://example.com/gogearfire-axis/</link>
+    <pubDate>Thu, 05 Feb 2026 12:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://example.com/?page_id=303</guid>
+    <description></description>
+    <content:encoded><![CDATA[<div class="bestffl"><section class="hero"><div class="heroCard"><h1>GoGearfire (AXIS) Review</h1><p class="sub">Firearms-focused retail management system positioned as POS + inventory + compliance automation.</p><div class="chips"><span class="chip"><b>Score:</b> 82/100</span><a class="chip" href="https://gogearfire.com/solutions/axis-point-of-sale/" target="_blank" rel="noopener">Vendor site &rarr;</a><span class="chip"><b>Updated:</b> 2026-02-05</span></div></div><div class="side"><div class="box"><h3>At a glance</h3><div class="tags"><span class='bestffl-tag'>RMS</span><span class='bestffl-tag'>Compliance</span><span class='bestffl-tag'>Distributors</span></div><p class="mut"><b>Best for:</b> Firearms retail POS with compliance automation focus</p></div></div></section><section class="box"><h2>Score breakdown</h2><table class="tbl"><thead><tr><th>Category</th><th>Score</th></tr></thead><tbody><tr><td><b>Compliance</b></td><td class='s'>18/25</td></tr><tr><td><b>POS/Retail</b></td><td class='s'>18/20</td></tr><tr><td><b>eCommerce</b></td><td class='s'>12/15</td></tr><tr><td><b>Distributors</b></td><td class='s'>13/15</td></tr><tr><td><b>Gun show/offline</b></td><td class='s'>5/15</td></tr><tr><td><b>Support/Implementation</b></td><td class='s'>16/10</td></tr></tbody></table></section><section class="box"><h2>Public sources used</h2><ul><li><a href='https://gogearfire.com/solutions/axis-point-of-sale/' target='_blank' rel='noopener'>AXIS POS</a></li><li><a href='https://gogearfire.com/' target='_blank' rel='noopener'>GoGearfire</a></li></ul></section></div>]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>303</wp:post_id>
+    <wp:post_date>2026-02-05 12:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-02-05 12:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>gogearfire-axis</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>3</wp:menu_order>
+    <wp:post_type>page</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+  </item>
+
+  <item>
+    <title>Bravo Store Systems Review</title>
+    <link>https://example.com/bravo-store-systems/</link>
+    <pubDate>Thu, 05 Feb 2026 12:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://example.com/?page_id=304</guid>
+    <description></description>
+    <content:encoded><![CDATA[<div class="bestffl"><section class="hero"><div class="heroCard"><h1>Bravo Store Systems Review</h1><p class="sub">Gun shop POS with compliance positioning (A&D / 4473 management) and fast onboarding.</p><div class="chips"><span class="chip"><b>Score:</b> 80/100</span><a class="chip" href="https://www.bravostoresystems.com/gun-shop-pos-software" target="_blank" rel="noopener">Vendor site &rarr;</a><span class="chip"><b>Updated:</b> 2026-02-05</span></div></div><div class="side"><div class="box"><h3>At a glance</h3><div class="tags"><span class='bestffl-tag'>POS</span><span class='bestffl-tag'>Compliance</span></div><p class="mut"><b>Best for:</b> Gun shops wanting POS + compliance in one system</p></div></div></section><section class="box"><h2>Score breakdown</h2><table class="tbl"><thead><tr><th>Category</th><th>Score</th></tr></thead><tbody><tr><td><b>Compliance</b></td><td class='s'>19/25</td></tr><tr><td><b>POS/Retail</b></td><td class='s'>17/20</td></tr><tr><td><b>eCommerce</b></td><td class='s'>10/15</td></tr><tr><td><b>Distributors</b></td><td class='s'>10/15</td></tr><tr><td><b>Gun show/offline</b></td><td class='s'>4/15</td></tr><tr><td><b>Support/Implementation</b></td><td class='s'>20/10</td></tr></tbody></table></section><section class="box"><h2>Public sources used</h2><ul><li><a href='https://ffl.bravostoresystems.com/atf-compliant-ffl-software/' target='_blank' rel='noopener'>ATF-compliant FFL software</a></li></ul></section></div>]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>304</wp:post_id>
+    <wp:post_date>2026-02-05 12:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-02-05 12:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>bravo-store-systems</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>4</wp:menu_order>
+    <wp:post_type>page</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+  </item>
+
+  <item>
+    <title>Orchid eBound Review</title>
+    <link>https://example.com/orchid-ebound/</link>
+    <pubDate>Thu, 05 Feb 2026 12:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://example.com/?page_id=305</guid>
+    <description></description>
+    <content:encoded><![CDATA[<div class="bestffl"><section class="hero"><div class="heroCard"><h1>Orchid eBound Review</h1><p class="sub">Compliance-focused bound book and e4473 platform with entry-level plans.</p><div class="chips"><span class="chip"><b>Score:</b> 78/100</span><a class="chip" href="https://orchidadvisors.com/ffl-bound-book-and-4473-software/" target="_blank" rel="noopener">Vendor site &rarr;</a><span class="chip"><b>Updated:</b> 2026-02-05</span></div></div><div class="side"><div class="box"><h3>At a glance</h3><div class="tags"><span class='bestffl-tag'>Compliance-first</span><span class='bestffl-tag'>Bound book</span></div><p class="mut"><b>Best for:</b> Compliance-first shops (bound book + e4473)</p></div></div></section><section class="box"><h2>Score breakdown</h2><table class="tbl"><thead><tr><th>Category</th><th>Score</th></tr></thead><tbody><tr><td><b>Compliance</b></td><td class='s'>24/25</td></tr><tr><td><b>POS/Retail</b></td><td class='s'>8/20</td></tr><tr><td><b>eCommerce</b></td><td class='s'>6/15</td></tr><tr><td><b>Distributors</b></td><td class='s'>6/15</td></tr><tr><td><b>Gun show/offline</b></td><td class='s'>4/15</td></tr><tr><td><b>Support/Implementation</b></td><td class='s'>30/10</td></tr></tbody></table></section><section class="box"><h2>Public sources used</h2><ul><li><a href='https://orchidadvisors.com/ffl-bound-book-and-4473-software/' target='_blank' rel='noopener'>Orchid eBound</a></li></ul></section></div>]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>305</wp:post_id>
+    <wp:post_date>2026-02-05 12:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-02-05 12:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>orchid-ebound</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>5</wp:menu_order>
+    <wp:post_type>page</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+  </item>
+
+  <item>
+    <title>FastBound Review</title>
+    <link>https://example.com/fastbound/</link>
+    <pubDate>Thu, 05 Feb 2026 12:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://example.com/?page_id=306</guid>
+    <description></description>
+    <content:encoded><![CDATA[<div class="bestffl"><section class="hero"><div class="heroCard"><h1>FastBound Review</h1><p class="sub">Focused electronic A&amp;D + e4473 platform commonly integrated into broader retail stacks.</p><div class="chips"><span class="chip"><b>Score:</b> 74/100</span><a class="chip" href="https://www.fastbound.com/" target="_blank" rel="noopener">Vendor site &rarr;</a><span class="chip"><b>Updated:</b> 2026-02-05</span></div></div><div class="side"><div class="box"><h3>At a glance</h3><div class="tags"><span class='bestffl-tag'>Compliance</span><span class='bestffl-tag'>A&amp;D + e4473</span></div><p class="mut"><b>Best for:</b> Compliance stack often paired with separate POS</p></div></div></section><section class="box"><h2>Score breakdown</h2><table class="tbl"><thead><tr><th>Category</th><th>Score</th></tr></thead><tbody><tr><td><b>Compliance</b></td><td class='s'>23/25</td></tr><tr><td><b>POS/Retail</b></td><td class='s'>6/20</td></tr><tr><td><b>eCommerce</b></td><td class='s'>5/15</td></tr><tr><td><b>Distributors</b></td><td class='s'>5/15</td></tr><tr><td><b>Gun show/offline</b></td><td class='s'>3/15</td></tr><tr><td><b>Support/Implementation</b></td><td class='s'>32/10</td></tr></tbody></table></section><section class="box"><h2>Public sources used</h2><ul><li><a href='https://www.fastbound.com/' target='_blank' rel='noopener'>FastBound</a></li></ul></section></div>]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>306</wp:post_id>
+    <wp:post_date>2026-02-05 12:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-02-05 12:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>fastbound</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>6</wp:menu_order>
+    <wp:post_type>page</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+  </item>
+
+  <item>
+    <title>Gun StoreMaster Review</title>
+    <link>https://example.com/gunstoremaster/</link>
+    <pubDate>Thu, 05 Feb 2026 12:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://example.com/?page_id=307</guid>
+    <description></description>
+    <content:encoded><![CDATA[<div class="bestffl"><section class="hero"><div class="heroCard"><h1>Gun StoreMaster Review</h1><p class="sub">Compliance tools including fast4473 and related record workflows.</p><div class="chips"><span class="chip"><b>Score:</b> 73/100</span><a class="chip" href="https://gunstoremaster.com/fast4473/" target="_blank" rel="noopener">Vendor site &rarr;</a><span class="chip"><b>Updated:</b> 2026-02-05</span></div></div><div class="side"><div class="box"><h3>At a glance</h3><div class="tags"><span class='bestffl-tag'>e4473</span><span class='bestffl-tag'>Compliance</span></div><p class="mut"><b>Best for:</b> Device-friendly e4473 + compliance workflows</p></div></div></section><section class="box"><h2>Score breakdown</h2><table class="tbl"><thead><tr><th>Category</th><th>Score</th></tr></thead><tbody><tr><td><b>Compliance</b></td><td class='s'>22/25</td></tr><tr><td><b>POS/Retail</b></td><td class='s'>7/20</td></tr><tr><td><b>eCommerce</b></td><td class='s'>5/15</td></tr><tr><td><b>Distributors</b></td><td class='s'>5/15</td></tr><tr><td><b>Gun show/offline</b></td><td class='s'>3/15</td></tr><tr><td><b>Support/Implementation</b></td><td class='s'>31/10</td></tr></tbody></table></section><section class="box"><h2>Public sources used</h2><ul><li><a href='https://gunstoremaster.com/fast4473/' target='_blank' rel='noopener'>fast4473</a></li></ul></section></div>]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>307</wp:post_id>
+    <wp:post_date>2026-02-05 12:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-02-05 12:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>gunstoremaster</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>7</wp:menu_order>
+    <wp:post_type>page</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+  </item>
+
+  <item>
+    <title>FFL Boss Review</title>
+    <link>https://example.com/ffl-boss/</link>
+    <pubDate>Thu, 05 Feb 2026 12:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://example.com/?page_id=308</guid>
+    <description></description>
+    <content:encoded><![CDATA[<div class="bestffl"><section class="hero"><div class="heroCard"><h1>FFL Boss Review</h1><p class="sub">Cloud electronic bound book emphasizing automation and scanning workflows.</p><div class="chips"><span class="chip"><b>Score:</b> 70/100</span><a class="chip" href="https://fflboss.com/" target="_blank" rel="noopener">Vendor site &rarr;</a><span class="chip"><b>Updated:</b> 2026-02-05</span></div></div><div class="side"><div class="box"><h3>At a glance</h3><div class="tags"><span class='bestffl-tag'>Cloud</span><span class='bestffl-tag'>Bound book</span></div><p class="mut"><b>Best for:</b> Small FFLs needing electronic bound book emphasis</p></div></div></section><section class="box"><h2>Score breakdown</h2><table class="tbl"><thead><tr><th>Category</th><th>Score</th></tr></thead><tbody><tr><td><b>Compliance</b></td><td class='s'>20/25</td></tr><tr><td><b>POS/Retail</b></td><td class='s'>8/20</td></tr><tr><td><b>eCommerce</b></td><td class='s'>4/15</td></tr><tr><td><b>Distributors</b></td><td class='s'>4/15</td></tr><tr><td><b>Gun show/offline</b></td><td class='s'>3/15</td></tr><tr><td><b>Support/Implementation</b></td><td class='s'>31/10</td></tr></tbody></table></section><section class="box"><h2>Public sources used</h2><ul><li><a href='https://fflboss.com/' target='_blank' rel='noopener'>FFL Boss</a></li></ul></section></div>]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>308</wp:post_id>
+    <wp:post_date>2026-02-05 12:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-02-05 12:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>ffl-boss</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>8</wp:menu_order>
+    <wp:post_type>page</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+  </item>
+
+  <item>
+    <title>Windward System Five Review</title>
+    <link>https://example.com/windward/</link>
+    <pubDate>Thu, 05 Feb 2026 12:00:00 +0000</pubDate>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <guid isPermaLink="false">https://example.com/?page_id=309</guid>
+    <description></description>
+    <content:encoded><![CDATA[<div class="bestffl"><section class="hero"><div class="heroCard"><h1>Windward System Five Review</h1><p class="sub">POS, inventory, and accounting system with gun shop configuration options.</p><div class="chips"><span class="chip"><b>Score:</b> 68/100</span><a class="chip" href="https://www.windwardsoftware.com/en-US/business-types/gun-shop" target="_blank" rel="noopener">Vendor site &rarr;</a><span class="chip"><b>Updated:</b> 2026-02-05</span></div></div><div class="side"><div class="box"><h3>At a glance</h3><div class="tags"><span class='bestffl-tag'>POS</span><span class='bestffl-tag'>Accounting</span></div><p class="mut"><b>Best for:</b> POS + inventory + accounting; pair separate compliance if needed</p></div></div></section><section class="box"><h2>Score breakdown</h2><table class="tbl"><thead><tr><th>Category</th><th>Score</th></tr></thead><tbody><tr><td><b>Compliance</b></td><td class='s'>10/25</td></tr><tr><td><b>POS/Retail</b></td><td class='s'>18/20</td></tr><tr><td><b>eCommerce</b></td><td class='s'>8/15</td></tr><tr><td><b>Distributors</b></td><td class='s'>6/15</td></tr><tr><td><b>Gun show/offline</b></td><td class='s'>3/15</td></tr><tr><td><b>Support/Implementation</b></td><td class='s'>23/10</td></tr></tbody></table></section><section class="box"><h2>Public sources used</h2><ul><li><a href='https://www.windwardsoftware.com/en-US/business-types/gun-shop' target='_blank' rel='noopener'>Windward gun shop</a></li></ul></section></div>]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>309</wp:post_id>
+    <wp:post_date>2026-02-05 12:00:00</wp:post_date>
+    <wp:post_date_gmt>2026-02-05 12:00:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:post_name>windward</wp:post_name>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>9</wp:menu_order>
+    <wp:post_type>page</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+  </item>
+
+</channel>
+</rss>
